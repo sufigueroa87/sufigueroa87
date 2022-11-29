@@ -3,7 +3,7 @@
 - 🌱 I am currently studying the upper cycle of cross-platform application development (DAM).
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/apple-blossom-illustration-xmas-card_53876-75766.jpg" />
+  <img src="https://img.freepik.com/premium-photo/watercolor-painting-leaves-flower-white-background_128862-518.jpg" />
 </p>
 
 <p align="right">
